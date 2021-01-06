@@ -1,0 +1,183 @@
+body{
+    background-color: white;
+    margin:0px;
+    font-family: 'Oswald', sans-serif;
+}
+#clr{
+    clear: both;
+}
+.nav-bar{
+    height: 80px;
+    float: right;
+}
+.nav-bar li{
+    list-style: none;
+    float: left;
+}
+.nav-bar li a{
+    text-decoration: none;
+    color: rgb(155, 10, 102);
+    
+    padding: 10px;
+}
+.primary-top{
+    height: 500px;
+    padding-bottom: 30px;
+}
+#title{
+    font-size: 50px;
+    line-height: 10px;
+    margin: 300px 0px 0px 0px;
+}
+#colorful-name{
+    color: rgb(155, 10, 102);
+    font-size: 50px;
+    line-height: 20px; 
+}
+.half-width p{
+    padding-bottom: 20px;
+}
+.primary-btn{
+    padding: 10px 20px;
+    text-decoration: none;
+    background-color: rgb(155, 10, 102);
+    color: white;
+    border-radius: 5px;
+}
+.half-width{
+    float: left;
+    width: 30%;
+    margin: 0% 5%;
+    padding: 2%;
+}
+.half-width p{
+    text-align: justify;
+}
+
+.half-width img {
+    width: 100%;
+    padding-top; 0px;
+}
+p{
+    color: dimgray;
+}
+#about{
+    margin-top: 80px;
+    font-size: 40px;
+}
+.primary-middle{
+    height: 300px;
+}
+.project-detail{
+    margin-top: 40px;
+    background-color: rgb(155, 10, 102);
+    height: 750px;
+}
+.project-detail h1{
+    font-size: 100px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+#colorful{
+    color: white;
+}
+.project-detail h1{
+    text-align: center;
+    font-size: 30px;
+}
+.project-showcase{
+    margin: 0% 5%;
+    width: 20%;
+    float: left;
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgb(34, 32, 32), 0 6px 20px 0 rgba(102, 100, 100, 0.39);
+}
+.project-showcase img{
+    width: 100%;
+}
+.skills{
+    height: 500px;
+}
+
+.skills h2{
+    font-size: 40px;
+    text-align: center;
+    margin: 60px 0px;
+}
+.skills h3{
+    font-size: 30px;
+    text-align: center;
+}
+.skill-menu1{
+    margin: 0% 5%;
+    width: 20%;
+    float: left;
+    color: white;
+    background-image: linear-gradient(45deg, rgb(236, 81, 33), rgb(236, 158, 13));
+    border-radius: 10px;
+    padding: 40px 10px;
+    box-shadow: 0 4px 8px 0 rgb(209, 206, 206), 0 6px 20px 0 rgba(102, 100, 100, 0.39);
+}
+.fa-file-code{
+    margin-left: 42%;
+}
+.skill-menu2{
+    margin: 0% 5%;
+    width: 20%;
+    float: left;
+    color: white;
+    background-image: linear-gradient(45deg, rgb(40, 183, 250), rgb(61, 36, 150));
+    border-radius: 10px;
+    padding: 40px 10px;
+    box-shadow: 0 4px 8px 0 rgb(209, 206, 206), 0 6px 20px 0 rgba(102, 100, 100, 0.39);
+}
+.fa-database{
+    margin-left: 42%;
+}
+.skill-menu3{
+    margin: 0% 5%;
+    width: 20%;
+    float: left;
+    color: white;
+    background-image: linear-gradient(45deg, rgb(178, 60, 207), rgb(253, 29, 235));
+    border-radius: 10px;
+    padding: 40px 10px;
+    box-shadow: 0 4px 8px 0 rgb(209, 206, 206), 0 6px 20px 0 rgba(102, 100, 100, 0.39);
+}
+.fa-laptop-code{
+    margin-left: 42%;
+}
+.contact {
+    height: 400px;
+    background-image: url(personal-website-main/shapes/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: 800px 200px;
+    background-position: center;
+}
+.contact h1{
+    color: white;
+    font-size: 30px;
+    float: left;
+    margin-top: 175px;
+    margin-left: 400px;
+}
+.contact a{
+    float: right;
+    margin-top: 180px;
+    margin-right: 400px;
+}
+.footer{
+    text-align: center;
+}
+.footer h4,h2{
+    line-height: 10px;
+}
+.icon{
+    margin-left: 690px;
+    margin-bottom: 50px;
+}
+.icon img{
+    padding: 0px 10px;
+}
